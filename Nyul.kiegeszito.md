@@ -1,6 +1,6 @@
 # Torkolattűz – Nyúl kiegészítő (zászlós) szabályai
 
-Az alábbiak Nyulászi Zsolt (Nyúl) kiegészítő reakciói a Torkolattűz Alapkönyv tartalmára.
+Az alábbiak Nyulászi Zsolt (Nyúl) szabályai - reagálva a Torkolattűz Alapkönyv tartalmára.
 
 >A FŐHŐS (Általában John, vagy ilyesmi)
 
