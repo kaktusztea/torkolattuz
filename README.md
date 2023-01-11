@@ -6,4 +6,4 @@ Szerepjáték az akciófilmes klisék világán.
 - [Mulabi](./Mulabi.md) - kiegészítő
 - [Nyúl kiegészítője](./Nyul.kiegeszito.md) - Nyulászi Zsolt kiegészítő (zászlós) szabályai
 
-– Ailtas
+– Ailtas ([CC](./LICENSE))
