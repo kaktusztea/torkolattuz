@@ -1,2 +1,4 @@
-# torkolattuz
-Torkolattűz - szerepjáték az akciófilmes klisék világán
+# Torkolattűz
+
+Szerepjáték az akciófilmes klisék világán.
+
