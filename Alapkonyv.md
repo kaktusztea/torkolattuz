@@ -142,3 +142,8 @@ CH -"Hát persze, főnök." ((BUMM-BUMM-BUMM))
 A fentihez hasonló párbeszédekért kaphatunk **Klisé-pontokat**, amik az égvilágon semmire nem jók, csak mutatják "műveltségünket".
 
 – Ailtas, 1997
+
+---
+
+→ [Mulabi kiegészítő](./Mulabi.md)\
+→ [Nyúl kiegészítő szabályai](./Nyul.kiegeszito.md)
